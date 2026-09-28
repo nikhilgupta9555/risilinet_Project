@@ -1,6 +1,6 @@
 import React, { useState } from 'react';
 import type { MeshNode, PacketLog } from '../types';
-import { Radio, WifiOff, Cpu, Zap, Signal, Activity, ArrowRight, RefreshCw, Send, CheckCircle2 } from 'lucide-react';
+import { Radio, Cpu, Zap, Signal, Activity, ArrowRight, Send } from 'lucide-react';
 
 interface ResiliMeshProps {
   nodes: MeshNode[];

@@ -1,5 +1,5 @@
 import React from 'react';
-import { FileText, Cpu, CheckCircle2, Rocket, Award, Shield, Layers, Radio, HeartHandshake } from 'lucide-react';
+import { Cpu, CheckCircle2, Rocket, Award, Shield, Layers, Radio, HeartHandshake } from 'lucide-react';
 
 export const PitchDeck: React.FC = () => {
   return (

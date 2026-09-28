@@ -1,5 +1,5 @@
 import React from 'react';
-import { Activity, Radio, Cpu, Smartphone, FileText, AlertTriangle, ShieldCheck, WifiOff } from 'lucide-react';
+import { Activity, Radio, Cpu, Smartphone, FileText, ShieldCheck, WifiOff } from 'lucide-react';
 
 interface HeaderProps {
   activeTab: string;
